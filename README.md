@@ -2,6 +2,7 @@
 
 
 # BMI Calculator 💪
+The web app is hosted at https://dshreddy.github.io/bmi-calculator-flutter/
 
 ## Our Goal
 
